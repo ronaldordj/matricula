@@ -1,0 +1,8 @@
+#login-box {
+    width: 622px;
+    height: 350px;
+    padding: 58px 76px 0 76px;
+    color: #FFFFFF;
+    font: 12px Arial, Helvetica, sans-serif;
+    background: url(../images/tunel.jpg) no-repeat left top;
+}
